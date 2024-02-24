@@ -1,0 +1,3 @@
+print("Danish")
+print("hellow word")
+print(3+4)
